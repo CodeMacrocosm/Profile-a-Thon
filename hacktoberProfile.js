@@ -10,14 +10,10 @@ var profiles = [
   {
     name: "Skand Sharma",
     place: "Jamshedpur, Jharkhand, India",
-    github: "https://github.com/skand1110",
+    github: "skand1110",
   },
 
-  {
-    name: "",
-    place: "",
-    github: "",
-  },
+
 
 
 
