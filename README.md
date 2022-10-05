@@ -3,7 +3,7 @@
 Happy Hacktoberfest! Hacktoberfest is back :fire:
 Profileathon is a list of profiles of Hacktoberfest 2022 participants.
 
-Link to webpage: [https://.github.io/HacktoberProfile/](https://.github.io/HacktoberProfile/)
+Link to webpage: https://codemacrocosm.github.io/profileathon-22/
 
 ## Contributing
 
