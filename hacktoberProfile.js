@@ -13,7 +13,11 @@ var profiles = [
     github: "skand1110",
   },
 
-
+  {
+    name: "Manish Saha",
+    place: "Kolkata, West Bengal, India",
+    github: "Manice18",
+  }, 
 
 
 
