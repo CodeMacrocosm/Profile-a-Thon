@@ -31,6 +31,12 @@ var profiles = [
     github: "Shruthi-kotawar",
   },
 
+  {
+    name: "Niranjan Kurhade",
+    place: "Mumbai,Maharashtra,India",
+    github: "niranjan-kurhade",
+  },
+
 
 
 
