@@ -15,7 +15,7 @@ var profiles = [
   
   {
     name: "Prakash kumar",
-    place: "Patna, Bihar,India",
+    place: "Patna,Bihar,India",
     github: "prakash-sah-lab",
   },
 
