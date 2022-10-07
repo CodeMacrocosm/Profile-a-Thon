@@ -24,6 +24,12 @@ var profiles = [
     place: "Kolkata, West Bengal, India",
     github: "Manice18",
   }, 
+  
+  {
+    name: "Shruthi Kotawar",
+    place: "Hyderabad,Telangana,India",
+    github: "Shruthi-kotawar",
+  },
 
 
 
