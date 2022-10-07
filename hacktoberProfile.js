@@ -29,6 +29,7 @@ var profiles = [
     name: "Shruthi Kotawar",
     place: "Hyderabad,Telangana,India",
     github: "Shruthi-kotawar",
+  },
 
 
 
