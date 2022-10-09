@@ -1,6 +1,11 @@
 var profiles = [
-  
   /*write from here*/
+  {
+    name: "Shahroz Ahmed",
+    place: "Karachi, Pakistan",
+    github: "ShahrozAhmd",
+  },
+
   {
     name: "Shreya Malogi",
     place: "Hyderabad,Telangana,India",
@@ -12,7 +17,7 @@ var profiles = [
     place: "Jamshedpur, Jharkhand, India",
     github: "skand1110",
   },
-  
+
   {
     name: "Prakash kumar",
     place: "Patna,Bihar,India",
@@ -23,8 +28,8 @@ var profiles = [
     name: "Manish Saha",
     place: "Kolkata, West Bengal, India",
     github: "Manice18",
-  }, 
-  
+  },
+
   {
     name: "Shruthi Kotawar",
     place: "Hyderabad,Telangana,India",
@@ -38,9 +43,9 @@ var profiles = [
   },
 
   {
-    name : "Miswar Yousuf",
-    place : "Hyderabad,Telangana,India",
-    github : "miswaryousuft"
+    name: "Miswar Yousuf",
+    place: "Hyderabad,Telangana,India",
+    github: "miswaryousuft",
   },
 
   {
@@ -48,21 +53,12 @@ var profiles = [
     place: "Hyderabad,Telangana,India",
     github: "Pratyusha-spec",
   },
-  
+
   {
-    name:"Sankooru Manideep",
-    place:"Hyderabad, Telangana, India",
-    github:"sankooru14"
-  }
-
-
-
-
-
-
-
-
-
+    name: "Sankooru Manideep",
+    place: "Hyderabad, Telangana, India",
+    github: "sankooru14",
+  },
 
   //end of json
 ];
