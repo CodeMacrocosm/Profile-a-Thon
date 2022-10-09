@@ -36,6 +36,12 @@ var profiles = [
     place: "Mumbai,Maharashtra,India",
     github: "niranjan-kurhade",
   },
+  
+  {
+    name : "Miswar Yousuf",
+    place : "Hyderabad,Telangana,India",
+    github : "miswaryousuft"
+  },
 
 
 
