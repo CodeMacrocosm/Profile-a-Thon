@@ -41,6 +41,11 @@ var profiles = [
     place: "Hyderabad,Telangana,India",
     github: "Pratyusha-spec",
   },
+  {
+    name:"Sankooru Manideep",
+    place:"Hyderabad, Telangana, India",
+    github:"sankooru14"
+  }
 
 
 
