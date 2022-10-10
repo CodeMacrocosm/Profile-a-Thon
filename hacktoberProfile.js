@@ -65,5 +65,10 @@ var profiles = [
     place: "Lima, Peru",
     github: "YorLecaros",
   },
+  {
+    name: "Harshit Pachori",
+    place: "Aligarh, UttarPradesh, India",
+    github: "harshitpachori",
+  },
   //end of json
 ];
