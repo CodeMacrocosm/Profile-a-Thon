@@ -76,6 +76,12 @@ var profiles = [
     name : "Amit Das",
     place : "Kolkata, India",
     github : "das-amit"
+  },
+
+  {
+    name : "Akasaka Ryuunosuke",
+    place : "Tokyo, Japan",
+    github : "idm1303"
   }
 
 
