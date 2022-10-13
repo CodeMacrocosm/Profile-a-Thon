@@ -75,16 +75,20 @@ var profiles = [
   {
     name : "Amit Das",
     place : "Kolkata, India",
-    github : "das-amit"
+    github : "das-amit",
   },
 
   {
     name : "Akasaka Ryuunosuke",
     place : "Tokyo, Japan",
-    github : "idm1303"
-  }
+    github : "idm1303",
+  },
 
-
+  {
+    name: "Shravya Malogi",
+    place: "Hyderabad,Telangana,India",
+    github: "shravyamalogi",
+  },
 
 
 
