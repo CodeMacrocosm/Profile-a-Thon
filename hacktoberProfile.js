@@ -89,6 +89,12 @@ var profiles = [
     place: "Hyderabad,Telangana,India",
     github: "shravyamalogi",
   },
+  
+  {
+    name:"Noundla Chandrasangna",
+    place:"Karimnagar,Telangana,India",
+    github: "chandrasangna",
+  },
 
 
 
