@@ -78,6 +78,11 @@ var profiles = [
     github : "das-amit",
   },
 
+  { name: "Nikhil Raikwar", 
+    place: "Sagar,Madhya Pradesh,India", 
+    github: "NikhilRaikwar", 
+  },
+
   {
     name : "Akasaka Ryuunosuke",
     place : "Tokyo, Japan",
