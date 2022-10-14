@@ -95,6 +95,11 @@ var profiles = [
     place:"Karimnagar,Telangana,India",
     github: "chandrasangna",
   },
+  {
+    name: "Shivani Thudimilla",
+    place: "Suryapet,Telangana,India",
+    github: "ShivaniThudimilla",
+  },
 
   {
     Name: "Shaik Anwar Ali",
