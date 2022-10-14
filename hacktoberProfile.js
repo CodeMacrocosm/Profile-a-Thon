@@ -96,7 +96,11 @@ var profiles = [
     github: "chandrasangna",
   },
 
-
+  {
+    Name: "Shaik Anwar Ali",
+    PLace : "Hyderabad,Telangana,India",
+    gitub : "anwarali5143"
+  }
 
 
 
