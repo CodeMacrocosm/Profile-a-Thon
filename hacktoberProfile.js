@@ -1,131 +1,122 @@
 var profiles = [
-  /*write from here*/
-  {
-    name: "Shahroz Ahmed",
-    place: "Karachi, Pakistan",
-    github: "ShahrozAhmd",
-  },
+    /*write from here*/
+    {
+        name: 'Shahroz Ahmed',
+        place: 'Karachi, Pakistan',
+        github: 'ShahrozAhmd',
+    },
 
-  {
-    name: "Shreya Malogi",
-    place: "Hyderabad,Telangana,India",
-    github: "shreyamalogi",
-  },
+    {
+        name: 'Shreya Malogi',
+        place: 'Hyderabad,Telangana,India',
+        github: 'shreyamalogi',
+    },
 
-  {
-    name: "Skand Sharma",
-    place: "Jamshedpur, Jharkhand, India",
-    github: "skand1110",
-  },
+    {
+        name: 'Skand Sharma',
+        place: 'Jamshedpur, Jharkhand, India',
+        github: 'skand1110',
+    },
 
-  {
-    name: "Prakash kumar",
-    place: "Patna,Bihar,India",
-    github: "prakash-sah-lab",
-  },
+    {
+        name: 'Prakash kumar',
+        place: 'Patna,Bihar,India',
+        github: 'prakash-sah-lab',
+    },
 
-  {
-    name: "Manish Saha",
-    place: "Kolkata, West Bengal, India",
-    github: "Manice18",
-  },
+    {
+        name: 'Manish Saha',
+        place: 'Kolkata, West Bengal, India',
+        github: 'Manice18',
+    },
 
-  {
-    name: "Shruthi Kotawar",
-    place: "Hyderabad,Telangana,India",
-    github: "Shruthi-kotawar",
-  },
+    {
+        name: 'Shruthi Kotawar',
+        place: 'Hyderabad,Telangana,India',
+        github: 'Shruthi-kotawar',
+    },
 
-  {
-    name: "Niranjan Kurhade",
-    place: "Mumbai,Maharashtra,India",
-    github: "niranjan-kurhade",
-  },
+    {
+        name: 'Niranjan Kurhade',
+        place: 'Mumbai,Maharashtra,India',
+        github: 'niranjan-kurhade',
+    },
 
-  {
-    name: "Miswar Yousuf",
-    place: "Hyderabad,Telangana,India",
-    github: "miswaryousuft",
-  },
+    {
+        name: 'Miswar Yousuf',
+        place: 'Hyderabad,Telangana,India',
+        github: 'miswaryousuft',
+    },
 
-  {
-    name: "Pratyusha Maisa",
-    place: "Hyderabad,Telangana,India",
-    github: "Pratyusha-spec",
-  },
+    {
+        name: 'Pratyusha Maisa',
+        place: 'Hyderabad,Telangana,India',
+        github: 'Pratyusha-spec',
+    },
 
-  {
-    name: "Sankooru Manideep",
-    place: "Hyderabad, Telangana, India",
-    github: "sankooru14",
-  },
+    {
+        name: 'Sankooru Manideep',
+        place: 'Hyderabad, Telangana, India',
+        github: 'sankooru14',
+    },
 
-  {
-    name: "Yorgina Lecaros",
-    place: "Lima, Peru",
-    github: "YorLecaros",
-  },
+    {
+        name: 'Yorgina Lecaros',
+        place: 'Lima, Peru',
+        github: 'YorLecaros',
+    },
 
-  {
-    name: "Harshit Pachori",
-    place: "Aligarh, UttarPradesh, India",
-    github: "harshitpachori",
-  },
+    {
+        name: 'Harshit Pachori',
+        place: 'Aligarh, UttarPradesh, India',
+        github: 'harshitpachori',
+    },
 
-  {
-    name : "Amit Das",
-    place : "Kolkata, India",
-    github : "das-amit",
-  },
+    {
+        name: 'Amit Das',
+        place: 'Kolkata, India',
+        github: 'das-amit',
+    },
 
-  { name: "Nikhil Raikwar", 
-    place: "Sagar,Madhya Pradesh,India", 
-    github: "NikhilRaikwar", 
-  },
+    {
+        name: 'Nikhil Raikwar',
+        place: 'Sagar,Madhya Pradesh,India',
+        github: 'NikhilRaikwar',
+    },
 
-  {
-    name : "Akasaka Ryuunosuke",
-    place : "Tokyo, Japan",
-    github : "idm1303",
-  },
+    {
+        name: 'Akasaka Ryuunosuke',
+        place: 'Tokyo, Japan',
+        github: 'idm1303',
+    },
 
-  {
-    name: "Shravya Malogi",
-    place: "Hyderabad,Telangana,India",
-    github: "shravyamalogi",
-  },
-  
-  {
-    name:"Noundla Chandrasangna",
-    place:"Karimnagar,Telangana,India",
-    github: "chandrasangna",
-  },
-  {
-    name: "Shivani Thudimilla",
-    place: "Suryapet,Telangana,India",
-    github: "ShivaniThudimilla",
-  },
-  {
-    name: "Niharika Ponugoti",
-    place: "Jangoan, Telangana, India",
-    github: "niharikaponugoti",
-  },
-    
+    {
+        name: 'Shravya Malogi',
+        place: 'Hyderabad,Telangana,India',
+        github: 'shravyamalogi',
+    },
 
+    {
+        name: 'Noundla Chandrasangna',
+        place: 'Karimnagar,Telangana,India',
+        github: 'chandrasangna',
+    },
+    {
+        name: 'Shivani Thudimilla',
+        place: 'Suryapet,Telangana,India',
+        github: 'ShivaniThudimilla',
+    },
+    {
+        name: 'Niharika Ponugoti',
+        place: 'Jangoan, Telangana, India',
+        github: 'niharikaponugoti',
+    },
 
+    {
+        name: 'Rio Cantre',
+        place: 'Italy',
+        github: 'RioCantre',
+    },
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-  //end of json
+    //end of json
 ];
