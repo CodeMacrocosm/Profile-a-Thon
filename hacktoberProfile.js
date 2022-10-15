@@ -105,6 +105,12 @@ var profiles = [
     place: "Suryapet,Telangana,India",
     github: "ShivaniThudimilla",
   },
+  {
+    name: "Niharika Ponugoti",
+    place: "Jangoan, Telangana, India",
+    github: "niharikaponugoti",
+  },
+    
 
 
 
