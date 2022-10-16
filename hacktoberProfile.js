@@ -118,5 +118,11 @@ var profiles = [
         github: 'RioCantre',
     },
 
+    {
+        name: 'Savio Dias',
+        place: 'Mumbai,Maharashtra,India',
+        github: 'Savio629',
+    },
+
     //end of json
 ];
