@@ -128,6 +128,12 @@ var profiles = [
         place: 'Mumbai,Maharashtra,India',
         github: 'Savio629',
     },
+    
+   {
+    name : "Jesse Mayo",
+    place : "Raleigh, NC, USA",
+    github : "jsmayo"
+  }
 
     //end of json
 ];
