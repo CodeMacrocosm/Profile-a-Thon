@@ -133,6 +133,11 @@ var profiles = [
     name : "Jesse Mayo",
     place : "Raleigh, NC, USA",
     github : "jsmayo"
+  },
+      {
+    name : "Amitabh Dasgupta",
+    place : "Kolkata, West Bengal, India",
+    github : "Shelby-kun"
   }
 
     //end of json
