@@ -129,26 +129,37 @@ var profiles = [
         github: 'Savio629',
     },
     
-   {
-    name : "Jesse Mayo",
-    place : "Raleigh, NC, USA",
-    github : "jsmayo"
-  },
-      {
+    {
+        name : "Jesse Mayo",
+        place : "Raleigh, NC, USA",
+        github : "jsmayo"
+    },
+    
+    {
     name : "Amitabh Dasgupta",
     place : "Kolkata, West Bengal, India",
     github : "Shelby-kun"
-  },
-      {
+    },
+    
+    {
     name : "Koustav Saha",
     place : "Kolkata, West Bengal, India",
     github : "k0ustav"
-  },
-      {
+    },
+    
+    {
+        name : "Himanshu Saha",
+        place : "Purnea, Bihar, India",
+        github : "Himanshu-Saha"
+    }
+    
+  
+   {
     name : "Shivam Jain",
     place : "Chandigarh, India",
     github : "Shiv-jain"
-  }
+    }
+
 
     //end of json
 ];
