@@ -177,6 +177,11 @@ var profiles = [
         place:"Suryapet,India",
         github:"ankithajalagam",
     },
+    {
+        name:"Akshay Kalekar",
+        place:"Goa,India",
+        github:"akshay-kalekar",
+    },
       
      
 
