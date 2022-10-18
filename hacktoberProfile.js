@@ -140,6 +140,12 @@ var profiles = [
     place : "Kolkata, West Bengal, India",
     github : "Shelby-kun"
     },
+
+    {
+        name : "Ankit Goyal",
+        place : "Sirsa, Haryana, India",
+        github : "Ankit9126"
+    },
     
     {
     name : "Koustav Saha",
@@ -151,7 +157,7 @@ var profiles = [
         name : "Himanshu Saha",
         place : "Purnea, Bihar, India",
         github : "Himanshu-Saha"
-    }
+    },
     
   
    {
