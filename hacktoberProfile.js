@@ -106,6 +106,7 @@ var profiles = [
         place: 'Karimnagar,Telangana,India',
         github: 'chandrasangna',
     },
+
     {
         name: 'Shivani Thudimilla',
         place: 'Suryapet,Telangana,India',
@@ -136,9 +137,9 @@ var profiles = [
     },
     
     {
-    name : "Amitabh Dasgupta",
-    place : "Kolkata, West Bengal, India",
-    github : "Shelby-kun"
+         name : "Amitabh Dasgupta",
+         place : "Kolkata, West Bengal, India",
+         github : "Shelby-kun"
     },
 
     {
@@ -148,9 +149,9 @@ var profiles = [
     },
     
     {
-    name : "Koustav Saha",
-    place : "Kolkata, West Bengal, India",
-    github : "k0ustav"
+         name : "Koustav Saha",
+         place : "Kolkata, West Bengal, India",
+         github : "k0ustav"
     },
     
     {
@@ -161,17 +162,44 @@ var profiles = [
     
   
    {
-    name : "Shivam Jain",
-    place : "Chandigarh, India",
-    github : "Shiv-jain"
-    }
+        name : "Shivam Jain",
+        place : "Chandigarh, India",
+        github : "Shiv-jain"
+    },
+
     {
         name:"Ankitha jalagam",
         place:"Suryapet,India",
         github:"ankithajalagam",
-    }
+    },
       
      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     //end of json
 ];
