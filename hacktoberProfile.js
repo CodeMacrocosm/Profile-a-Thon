@@ -159,7 +159,13 @@ var profiles = [
     place : "Chandigarh, India",
     github : "Shiv-jain"
     }
-
+    {
+        name:"Ankitha jalagam",
+        place:"Suryapet,India",
+        github:"ankithajalagam",
+    }
+      
+     
 
     //end of json
 ];
