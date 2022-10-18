@@ -182,7 +182,11 @@ var profiles = [
         place:"Goa,India",
         github:"akshay-kalekar",
     },
-      
+    {
+         name : "Raj Saha",
+         place : "Kolkata, West Bengal, India",
+         github : "saha-rj"
+    },      
      
 
 
