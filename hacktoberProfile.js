@@ -206,6 +206,11 @@ var profiles = [
         place:"suryapet, Telangana, India",
         github:"Menenispandana"
      },
+    {
+        name: 'sameera',
+        place: 'Jangoan, Telangana, India',
+        github: 'sameera-7',
+    },
 
     
 
