@@ -211,6 +211,11 @@ var profiles = [
         place: 'Jangoan, Telangana, India',
         github: 'sameera-7',
     },
+    {
+        name: 'eswari',
+        place: 'Rajahmundry,Anshra pradesh, India',
+        github: 'eswaritammana',
+    },
 
     
 
