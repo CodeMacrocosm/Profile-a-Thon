@@ -201,6 +201,11 @@ var profiles = [
         place: "Hyderabad, Telengana, India",
         github: "IbrahimShareeff"
     },
+    {
+        name:"meneni spandana"
+        place:"suryapet, Telangana, India",
+        github:"Menenispandana"
+     },
 
     
 
