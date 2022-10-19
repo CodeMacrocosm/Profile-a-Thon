@@ -182,6 +182,12 @@ var profiles = [
         place:"Goa,India",
         github:"akshay-kalekar",
     },
+    {
+        name:" Sindu Vidya",
+        place:" kamareddy,Telangana,India",
+        github:" Vidyasindu ",
+    },
+    
       
      
 
