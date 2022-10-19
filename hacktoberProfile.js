@@ -195,9 +195,14 @@ var profiles = [
         name: "Shashank Rai",
         place: "Gorakhpur, Uttar Pradesh, India",
         github: "Shanky0"
-    }
+    },
+    {
+        name: "Syed Ibrahim Shareef",
+        place: "Hyderabad, Telengana, India",
+        github: "IbrahimShareeff"
+    },
 
-
+    
 
 
 
