@@ -10,7 +10,11 @@ var profiles = [
         place: 'Karachi, Pakistan',
         github: 'ShahrozAhmd',
     },
-
+    {
+    name : "MD DANISH JAMAL",
+    place : "CHANDIGARH,INDIA",
+    github : "IMDJ6"
+    },
     {
         name: 'Shreya Malogi',
         place: 'Hyderabad,Telangana,India',
@@ -216,11 +220,19 @@ var profiles = [
         place: 'Rajahmundry,Anshra pradesh, India',
         github: 'eswaritammana',
     },
+    
     {
         name: 'Siddhant Srivastava',
         place: 'Purnea, Bihar, India',
         github: 'sidsrivastavasks',
     },
+
+    {
+    name : "Vaibhav Radhakrishnan",
+    place : "Hyderabad,Telengana,India",
+    github : "Vai300"
+  }
+      
     
 
 
