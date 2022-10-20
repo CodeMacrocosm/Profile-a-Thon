@@ -1,9 +1,9 @@
 var profiles = [
     /*write from here*/
     {
-        name : "Akshay KN",
-        place : "Kodakara, Kerala, India",
-        github : "akshayknz"
+        name: "Akshay KN",
+        place: "Kodakara, Kerala, India",
+        github: "akshayknz"
     },
     {
         name: 'Shahroz Ahmed',
@@ -47,11 +47,11 @@ var profiles = [
         github: 'niranjan-kurhade',
     },
     {
-    name : 'Sumit Raikwar',
-    place : 'Sagar,Madhya Pradesh,India',
-    github : 'SumitRaikwar18'
+        name: 'Sumit Raikwar',
+        place: 'Sagar,Madhya Pradesh,India',
+        github: 'SumitRaikwar18'
     },
-    
+
     {
         name: 'Miswar Yousuf',
         place: 'Hyderabad,Telangana,India',
@@ -134,62 +134,97 @@ var profiles = [
         place: 'Mumbai,Maharashtra,India',
         github: 'Savio629',
     },
-    
+
     {
-        name : "Jesse Mayo",
-        place : "Raleigh, NC, USA",
-        github : "jsmayo"
-    },
-    
-    {
-         name : "Amitabh Dasgupta",
-         place : "Kolkata, West Bengal, India",
-         github : "Shelby-kun"
+        name: "Jesse Mayo",
+        place: "Raleigh, NC, USA",
+        github: "jsmayo"
     },
 
     {
-        name : "Ankit Goyal",
-        place : "Sirsa, Haryana, India",
-        github : "Ankit9126"
-    },
-    
-    {
-         name : "Koustav Saha",
-         place : "Kolkata, West Bengal, India",
-         github : "k0ustav"
-    },
-    
-    {
-        name : "Himanshu Saha",
-        place : "Purnea, Bihar, India",
-        github : "Himanshu-Saha"
-    },
-    
-  
-   {
-        name : "Shivam Jain",
-        place : "Chandigarh, India",
-        github : "Shiv-jain"
+        name: "Amitabh Dasgupta",
+        place: "Kolkata, West Bengal, India",
+        github: "Shelby-kun"
     },
 
     {
-        name:"Ankitha jalagam",
-        place:"Suryapet,India",
-        github:"ankithajalagam",
+        name: "Ankit Goyal",
+        place: "Sirsa, Haryana, India",
+        github: "Ankit9126"
+    },
+
+    {
+        name: "Koustav Saha",
+        place: "Kolkata, West Bengal, India",
+        github: "k0ustav"
+    },
+
+    {
+        name: "Himanshu Saha",
+        place: "Purnea, Bihar, India",
+        github: "Himanshu-Saha"
+    },
+
+
+    {
+        name: "Shivam Jain",
+        place: "Chandigarh, India",
+        github: "Shiv-jain"
+    },
+
+    {
+        name: "Ankitha jalagam",
+        place: "Suryapet,India",
+        github: "ankithajalagam",
     },
     {
-        name:"Akshay Kalekar",
-        place:"Goa,India",
-        github:"akshay-kalekar",
+        name: "Akshay Kalekar",
+        place: "Goa,India",
+        github: "akshay-kalekar",
     },
+    {
+        name: "Raj Saha",
+        place: "Kolkata, West Bengal, India",
+        github: "saha-rj"
+    },
+    {
+        name: "Reet Srivastava",
+        place: "Lucknow, Uttar Pradesh, India",
+        github: "reetsrivastava"
+    }, {
+        name: "Shashank Rai",
+        place: "Gorakhpur, Uttar Pradesh, India",
+        github: "Shanky0"
+    },
+    {
+        name: "Syed Ibrahim Shareef",
+        place: "Hyderabad, Telengana, India",
+        github: "IbrahimShareeff"
+    },
+    {
+        name:"meneni spandana"
+        place:"suryapet, Telangana, India",
+        github:"Menenispandana"
+     },
+    {
+        name: 'sameera',
+        place: 'Jangoan, Telangana, India',
+        github: 'sameera-7',
+    },
+    {
+        name: 'eswari',
+        place: 'Rajahmundry,Anshra pradesh, India',
+        github: 'eswaritammana',
+    },
+
     {
     name : "Vaibhav Radhakrishnan",
     place : "Hyderabad,Telengana,India",
     github : "Vai300"
   }
       
-     
 
+    
 
 
 
