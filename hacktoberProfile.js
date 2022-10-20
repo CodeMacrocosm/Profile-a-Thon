@@ -217,6 +217,13 @@ var profiles = [
         github: 'eswaritammana',
     },
 
+    {
+    name : "Vaibhav Radhakrishnan",
+    place : "Hyderabad,Telengana,India",
+    github : "Vai300"
+  }
+      
+
     
 
 
