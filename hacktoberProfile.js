@@ -220,6 +220,12 @@ var profiles = [
         place: 'Rajahmundry,Anshra pradesh, India',
         github: 'eswaritammana',
     },
+    
+    {
+        name: 'Siddhant Srivastava',
+        place: 'Purnea, Bihar, India',
+        github: 'sidsrivastavasks',
+    },
 
     {
     name : "Vaibhav Radhakrishnan",
@@ -227,7 +233,6 @@ var profiles = [
     github : "Vai300"
   }
       
-
     
 
 
