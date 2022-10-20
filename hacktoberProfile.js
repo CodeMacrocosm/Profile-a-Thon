@@ -10,7 +10,11 @@ var profiles = [
         place: 'Karachi, Pakistan',
         github: 'ShahrozAhmd',
     },
-
+    {
+    name : "MD DANISH JAMAL",
+    place : "CHANDIGARH,INDIA",
+    github : "IMDJ6"
+    },
     {
         name: 'Shreya Malogi',
         place: 'Hyderabad,Telangana,India',
