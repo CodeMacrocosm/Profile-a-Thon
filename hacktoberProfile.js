@@ -239,7 +239,11 @@ var profiles = [
         github: 'RoHitHai',
     },
 
-
+    {
+        name: "Ruthvik Kanukunta",
+        place: "Hyderabad, Telangana, India",
+        github: "Ruthvik2127"
+    },
 
 
 
