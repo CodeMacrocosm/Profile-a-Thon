@@ -206,7 +206,7 @@ var profiles = [
         github: "IbrahimShareeff"
     },
     {
-        name:"meneni spandana"
+        name:"meneni spandana",
         place:"suryapet, Telangana, India",
         github:"Menenispandana"
      },
@@ -231,7 +231,7 @@ var profiles = [
     name : "Vaibhav Radhakrishnan",
     place : "Hyderabad,Telengana,India",
     github : "Vai300"
-  }
+  },
     
     {   
      name: 'Rohit Gupta',
@@ -244,6 +244,12 @@ var profiles = [
         place: "Hyderabad, Telangana, India",
         github: "Ruthvik2127"
     },
+
+   {
+    name : "Abhishek Jaiswar",
+    place : "Hyderabad,Telengana,India",
+    github : "AbhishekTesla"
+  },
 
 
 
