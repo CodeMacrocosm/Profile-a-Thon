@@ -219,5 +219,10 @@ var profiles = [
         place: "Chandrapur, Maharashtra, India",
         github: "swayamterode"
     },
+    {
+    	name: "Aadi Agrawal",
+    	place: "Agra, UP, India"
+    	github: "iamwicked"
+    },
     //end of json
 ];
