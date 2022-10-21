@@ -232,10 +232,12 @@ var profiles = [
     place : "Hyderabad,Telengana,India",
     github : "Vai300"
   }
-      
     
-
-
+    {   
+     name: 'Rohit Gupta',
+        place: 'Hyderabad,Telangana,India',
+        github: 'RoHitHai',
+    },
 
 
 
