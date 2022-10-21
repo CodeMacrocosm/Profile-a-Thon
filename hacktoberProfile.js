@@ -203,7 +203,12 @@ var profiles = [
     name : "Vaibhav Radhakrishnan",
     place : "Hyderabad,Telengana,India",
     github : "Vai300"
+
+  },
+    
+
     },
+
     {   
      name: 'Rohit Gupta',
         place: 'Hyderabad,Telangana,India',
@@ -214,10 +219,41 @@ var profiles = [
         place: "Hyderabad, Telangana, India",
         github: "Ruthvik2127"
     },
+
+
+   {
+    name : "Abhishek Jaiswar",
+    place : "Hyderabad,Telengana,India",
+    github : "AbhishekTesla"
+  },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
         name: "Swayam Terode",
         place: "Chandrapur, Maharashtra, India",
         github: "swayamterode"
     },
+
     //end of json
 ];
