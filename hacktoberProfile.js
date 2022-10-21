@@ -1,5 +1,11 @@
 var profiles = [
     /*write from here*/
+    
+        {
+        name: "Abhishek Yadav",
+        place: "Rohini, New Delhi, India",
+        github: "abhiyadav2345"
+    },
     {
         name: "Akshay KN",
         place: "Kodakara, Kerala, India",
