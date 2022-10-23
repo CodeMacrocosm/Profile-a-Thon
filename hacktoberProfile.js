@@ -245,6 +245,11 @@ var profiles = [
     	place: "Agra, UP, India"
     	github: "iamwicked"
     },
+    {
+        name : "Rohit Roy",
+        place : "Kolkata, West Bengal, India",
+        github : "imrohitroy23"
+      },
 
 
 
