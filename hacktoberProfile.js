@@ -256,6 +256,12 @@ var profiles = [
         place: "Sirsa, Haryana, India",
         github: "ShubhamGoyal7125"
     },
+    
+       {
+        name: "Naman Rai",
+        place: "Sehore, Madhya Pradesh, India",
+        github: "NAMANIND"
+    },
 
 
 
