@@ -213,7 +213,7 @@ var profiles = [
   },
     
 
-    },
+    
 
     {   
      name: 'Rohit Gupta',
@@ -242,7 +242,7 @@ var profiles = [
 
     {
     	name: "Aadi Agrawal",
-    	place: "Agra, UP, India"
+    	place: "Agra, UP, India",
     	github: "iamwicked"
     },
     {
@@ -250,6 +250,12 @@ var profiles = [
         place : "Kolkata, West Bengal, India",
         github : "imrohitroy23"
       },
+
+      {
+        name: "Shubham Goyal",
+        place: "Sirsa, Haryana, India",
+        github: "ShubhamGoyal7125"
+    },
 
 
 
