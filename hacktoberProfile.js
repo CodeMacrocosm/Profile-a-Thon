@@ -257,6 +257,11 @@ var profiles = [
         github: "ShubhamGoyal7125"
     },
 
+       {
+        name: "Muskan Dixit",
+        place: "Indore, Madhya pradesh, India",
+        github: "M-uskanD31"
+    },
 
 
 
