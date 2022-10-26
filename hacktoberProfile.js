@@ -262,9 +262,9 @@ var profiles = [
         github: "M-uskanD31"
     },
     {
-        name:"Shashank Rai",
-        place:"Lucknow, Uttar Pradesh, India",
-        github:"Shanky-ced"
+        name: "Shashank Rai",
+        place: "Lucknow, Uttar Pradesh, India",
+        github: "Shanky-ced"
     }
 
 
