@@ -256,6 +256,11 @@ var profiles = [
         place: "Sirsa, Haryana, India",
         github: "ShubhamGoyal7125"
     },
+    {
+        name: "vishesh saxena",
+        place: "sehore , madhya pradesh",
+        github: "VisheshInd"
+    },
 
        {
         name: "Muskan Dixit",
