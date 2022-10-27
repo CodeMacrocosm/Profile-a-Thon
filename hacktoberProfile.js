@@ -1,7 +1,7 @@
 var profiles = [
     /*write from here*/
-    
-        {
+
+    {
         name: "Abhishek Yadav",
         place: "Rohini, New Delhi, India",
         github: "abhiyadav2345"
@@ -17,9 +17,9 @@ var profiles = [
         github: 'ShahrozAhmd',
     },
     {
-    name : "MD DANISH JAMAL",
-    place : "CHANDIGARH,INDIA",
-    github : "IMDJ6"
+        name: "MD DANISH JAMAL",
+        place: "CHANDIGARH,INDIA",
+        github: "IMDJ6"
     },
     {
         name: 'Shreya Malogi',
@@ -186,10 +186,10 @@ var profiles = [
         github: "IbrahimShareeff"
     },
     {
-        name:"meneni spandana",
-        place:"suryapet, Telangana, India",
-        github:"Menenispandana"
-     },
+        name: "meneni spandana",
+        place: "suryapet, Telangana, India",
+        github: "Menenispandana"
+    },
     {
         name: 'sameera',
         place: 'Jangoan, Telangana, India',
@@ -206,17 +206,13 @@ var profiles = [
         github: 'sidsrivastavasks',
     },
     {
-    name : "Vaibhav Radhakrishnan",
-    place : "Hyderabad,Telengana,India",
-    github : "Vai300"
+        name: "Vaibhav Radhakrishnan",
+        place: "Hyderabad,Telengana,India",
+        github: "Vai300"
 
-  },
-    
-
-    
-
-    {   
-     name: 'Rohit Gupta',
+    },
+    {
+        name: 'Rohit Gupta',
         place: 'Hyderabad,Telangana,India',
         github: 'RoHitHai',
     },
@@ -227,13 +223,11 @@ var profiles = [
     },
 
 
-   {
-    name : "Abhishek Jaiswar",
-    place : "Hyderabad,Telengana,India",
-    github : "AbhishekTesla"
-  },
-
-
+    {
+        name: "Abhishek Jaiswar",
+        place: "Hyderabad,Telengana,India",
+        github: "AbhishekTesla"
+    },
     {
         name: "Swayam Terode",
         place: "Chandrapur, Maharashtra, India",
@@ -241,27 +235,48 @@ var profiles = [
     },
 
     {
-    	name: "Aadi Agrawal",
-    	place: "Agra, UP, India",
-    	github: "iamwicked"
+        name: "Aadi Agrawal",
+        place: "Agra, UP, India",
+        github: "iamwicked"
     },
     {
-        name : "Rohit Roy",
-        place : "Kolkata, West Bengal, India",
-        github : "imrohitroy23"
-      },
+        name: "Rohit Roy",
+        place: "Kolkata, West Bengal, India",
+        github: "imrohitroy23"
+    },
 
-      {
+    {
         name: "Shubham Goyal",
         place: "Sirsa, Haryana, India",
         github: "ShubhamGoyal7125"
     },
     
-       {
+    {
         name: "Naman Rai",
         place: "Sehore, Madhya Pradesh, India",
         github: "NAMANIND"
+     },
+
+    {
+        name: "vishesh saxena",
+        place: "sehore , madhya pradesh",
+        github: "VisheshInd"
+
     },
+
+    {
+        name: "Muskan Dixit",
+        place: "Indore, Madhya pradesh, India",
+        github: "M-uskanD31"
+    },
+    {
+        name: "Shashank Rai",
+        place: "Lucknow, Uttar Pradesh, India",
+        github: "Shanky-ced"
+    }
+
+
+
 
 
 
