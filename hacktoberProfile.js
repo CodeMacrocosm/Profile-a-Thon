@@ -200,6 +200,11 @@ var profiles = [
         place: 'Rajahmundry,Anshra pradesh, India',
         github: 'eswaritammana',
     },
+      {
+        name: "Pradeep Kumar",
+        place: "Pargi,Telangana,India",
+        github: "Shanky-ced"
+    }
     {
         name: 'Siddhant Srivastava',
         place: 'Purnea, Bihar, India',
