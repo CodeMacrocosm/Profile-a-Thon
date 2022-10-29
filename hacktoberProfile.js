@@ -273,9 +273,12 @@ var profiles = [
         name: "Shashank Rai",
         place: "Lucknow, Uttar Pradesh, India",
         github: "Shanky-ced"
+    },
+    {
+        name: "Deepyaman Das",
+        place: "Kolkata, West Bengal, India",
+        github: "deepyaman-das"
     }
-
-
 
 
 
