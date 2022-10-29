@@ -279,5 +279,42 @@ var profiles = [
 		github: "chirantan-basu01",
 	},
 
-	//end of json
+    {
+        name: "Muskan Dixit",
+        place: "Indore, Madhya pradesh, India",
+        github: "M-uskanD31"
+    },
+    {
+        name: "Shashank Rai",
+        place: "Lucknow, Uttar Pradesh, India",
+        github: "Shanky-ced"
+    },
+    {
+        name : "Tapan Dabhi",
+        place : "Toronto, Ontario, Canada",
+        github : "dabhitapan"
+    }
+     {
+        name: "Chinmay Chougule",
+        place: "Kolhapur, Maharashtra, India",
+        github: "Chinmay1292"
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    //end of json
+
 ];
