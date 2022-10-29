@@ -1,6 +1,11 @@
 var profiles = [
 	/*write from here*/
-
+	
+    {
+        name: 'Shreya Malogi',
+        place: 'Hyderabad,Telangana,India',
+        github: 'shreyamalogi',
+    },
 
     {
         name: "Abhishek Yadav",
@@ -22,11 +27,7 @@ var profiles = [
         place: "CHANDIGARH,INDIA",
         github: "IMDJ6"
     },
-    {
-        name: 'Shreya Malogi',
-        place: 'Hyderabad,Telangana,India',
-        github: 'shreyamalogi',
-    },
+
     {
         name: 'Skand Sharma',
         place: 'Jamshedpur, Jharkhand, India',
@@ -204,7 +205,7 @@ var profiles = [
       {
         name: "Pradeep Kumar",
         place: "Pargi,Telangana,India",
-        github: "Shanky-ced"
+        github: "Prad55ep"
     },
     {
         name: 'Siddhant Srivastava',
@@ -526,6 +527,11 @@ var profiles = [
         github: "Chinmay1292"
     },
     
+   {
+        name: 'Gangothri',
+        place: 'Suryapet,Telangana,India',
+        github: 'mattagamgangothri',
+    },
     
 
 
