@@ -275,6 +275,11 @@ var profiles = [
         github: "Shanky-ced"
     },
     {
+        name : "Tapan Dabhi",
+        place : "Toronto, Ontario, Canada",
+        github : "dabhitapan"
+    }
+     {
         name: "Chinmay Chougule",
         place: "Kolhapur, Maharashtra, India",
         github: "Chinmay1292"
