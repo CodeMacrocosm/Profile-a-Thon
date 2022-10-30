@@ -216,7 +216,7 @@ var profiles = [
         name: "Vaibhav Radhakrishnan",
         place: "Hyderabad,Telengana,India",
         github: "Vai300"
-
+	},
 	{
 		name: "Abhishek Yadav",
 		place: "Rohini, New Delhi, India",
@@ -512,9 +512,14 @@ var profiles = [
         place: "Berhampore, West Bengal, India",
         github: "RaunakMandal"
     },
-        name: "Deepyaman Das",
+    {  name: "Deepyaman Das",
         place: "Kolkata, West Bengal, India",
         github: "deepyaman-das"
+    },
+	{  	
+		name: "Kabirul Hassan",
+		place: "Kolkata, West Bengal, India",
+        github: "kabirulhassan"
     },
     {
         name : "Tapan Dabhi",
