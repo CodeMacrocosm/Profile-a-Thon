@@ -1,0 +1,24 @@
+.dark-mode{
+    --page-color: rgba(30, 30, 30, 0.937);
+    --card-color: rgb(34, 34, 34);
+    --text-color: rgb(216, 216, 216);
+    --nav-color: rgb(34, 34, 34);
+}
+
+*{
+    color: var(--text-color) !important;
+}
+
+.navbar{
+    background-color: var(--nav-color) !important;
+}
+
+body{
+    background-color: var(--page-color) !important;
+    color: var(--text-color) !important;
+}
+
+.profile-card{
+    background-color: var(--card-color);
+    
+}
