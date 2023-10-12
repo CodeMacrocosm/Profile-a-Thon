@@ -1,6 +1,11 @@
 
+
+
+<div align="center">
+
 # Profile-a-Thon '22 -  🚀🌟 Profiles Celebrated, Coders Showcased, Globally! 🌟✨
 
+</div>
 
 
 <p align="center">
@@ -62,7 +67,7 @@ If you're new to contributing, follow this guide on [How To Create a Pull Reques
 2. **Clone Your Fork** 📥
 
    ```bash
-   git clone https://github.com/codemacrocosm/Pattern-a-Thon-22.git
+   git clone https://github.com/codemacrocosm/Profile-a-Thon-22.git
    ```
 
 ### Step 2: Add Your Profile 🚀
@@ -95,13 +100,9 @@ Copyright (c) 2022 CodeMacrocosm
 
 
 
-
-
-
-
 ## Contributors 🙌
 
-A big thanks to all the creative minds who have contributed . Check out the contributors and explore the variety of patterns they've added.
+A big thanks to all the creative minds who have contributed.
 
 Now, let the creation begin! Happy coding! 🎨✨
 
