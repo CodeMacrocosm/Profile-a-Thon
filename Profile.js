@@ -538,6 +538,11 @@ var profiles = [
         github: 'mattagamgangothri',
     },
     
+   {
+        name: 'Harshal',
+        place: 'Nagpur,Maharashtra,India',
+        github: 'harshal-deshattiwar',
+    },
 
 
 
