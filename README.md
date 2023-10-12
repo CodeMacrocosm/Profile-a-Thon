@@ -1,11 +1,32 @@
 
-# Profile-a-thon '22 -  🚀🌟
+# Profile-a-Thon '22 -  🚀🌟 Profiles Celebrated, Coders Showcased, Globally! 🌟✨
 
 
-[![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Git-Training?style=flat-square)](https://github.com/CodeMacrocosm/Git-Training/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Git-Training?style=flat-square)](https://github.com/CodeMacrocosm/Git-Training/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/codemacrocosm/Pattern-a-Thon-22.svg)](https://github.com/codemacrocosm/Pattern-a-thon-22/graphs/contributors)
-![GitHub](https://img.shields.io/github/license/CodeMacrocosm/profileathon-22)
+
+<p align="center">
+  <a href="https://github.com/CodeMacrocosm/Profile-a-Thon-22/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Profile-a-Thon-22?style=flat-square" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/CodeMacrocosm/Profile-a-Thon-22/network">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Profile-a-Thon-22?style=flat-square" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/codemacrocosm/Profile-a-Thon-22/graphs/contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Profile-a-Thon-22.svg" alt="GitHub contributors">
+  </a>
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Profile-a-Thon-22" alt="GitHub">
+</p>
+
+<div align="center">
+
+## ✨ Hall Of Fame
+
+Thanks goes to these amazing people for their contributions 🎉🎉🎉
+
+<a href="https://github.com/codeMacrocosm/Profile-a-Thon-22/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Profile-a-Thon-22" />
+</a>
+
+</div>
 
 
 
@@ -72,15 +93,8 @@ MIT License
 
 Copyright (c) 2022 CodeMacrocosm
 
-## ✨ Hall Of Fame
-
-Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 
-
-<a href="https://github.com/codemacrocosm/Profile-a-Thon-22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codemacrocosm/Profile-a-Thon-22" />
-</a>
 
 
 
@@ -89,6 +103,6 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 A big thanks to all the creative minds who have contributed . Check out the contributors and explore the variety of patterns they've added.
 
-Now, let the pattern creation begin! Happy coding! 🎨✨
+Now, let the creation begin! Happy coding! 🎨✨
 
 
