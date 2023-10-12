@@ -1,13 +1,9 @@
 
-
-
 <div align="center">
 
 # Profile-a-Thon '22 -  🚀🌟 Profiles Celebrated, Coders Showcased, Globally! 🌟✨
 
 </div>
-
-
 <p align="center">
   <a href="https://github.com/CodeMacrocosm/Profile-a-Thon-22/stargazers">
     <img src="https://img.shields.io/github/stars/CodeMacrocosm/Profile-a-Thon-22?style=flat-square" alt="GitHub stars">
@@ -38,27 +34,26 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
 ### Table of Contents 📚
 
-1. [Overview](#overview)
-2. [Webpage Access](#webpage-access)
-3. [Contribution Guidelines](#contribution-guidelines)
-4. [License](#license)
-5. [How to Contribute](#how-to-contribute)
+1. [Overview](#overview-)
+2. [Webpage Access](https://github.com/CodeMacrocosm/Profile-a-Thon-22/edit/main/README.md#webpage-access-)
+3. [How to contribute](https://github.com/CodeMacrocosm/Profile-a-Thon-22/edit/main/README.md#step-1-how-to-contribute-%EF%B8%8F)
+4. [Star it](https://github.com/CodeMacrocosm/Profile-a-Thon-22/edit/main/README.md#how-to-star-)
+5. [Thanks Contributors](https://github.com/CodeMacrocosm/Profile-a-Thon-22/edit/main/README.md#contributors-)
 
+---
 
-## Overview 🌐
+### Overview 🌐
 
-Profileathon, hosted by **Shreya Malogi**, is a vibrant collection of profiles for participants . Celebrate open source and showcase your presence in the global coding community!
+Profileathon, hosted by **Shreya Malogi**, is a vibrant collection 🌈 of profiles for participants. 🎉 Celebrate open source and showcase your presence 🚀 in the global coding community! 💻✨
 
-## Webpage Access 🔗
+### Webpage Access 🔗
 
 Explore the profiles on the Profileathon webpage: [Profile-a-Thon-22](https://codemacrocosm.github.io/profile-a-Thon-22/)
 
-## Contribution Guidelines 📝
-
-If you're new to contributing, follow this guide on [How To Create a Pull Request on GitHub](https://help.github.com/en/articles/creating-a-pull-request).
 
 
-## Step 1: How to Contribute 🖋️
+
+### Step 1: How to Contribute 🖋️
 
 1. **Fork this Repository** 🍴
 
@@ -72,7 +67,7 @@ If you're new to contributing, follow this guide on [How To Create a Pull Reques
 
 ### Step 2: Add Your Profile 🚀
 
-In your forked repository, navigate to `hacktoberProfile.js`. Add your profile details at the bottom using the given format:
+In your forked repository, navigate to `Profile.js`. Add your profile details at the bottom using the given format:
 
 ```javascript
 {
@@ -86,11 +81,11 @@ In your forked repository, navigate to `hacktoberProfile.js`. Add your profile d
 
 Commit your changes and submit a pull request. Once accepted, your profile will be featured !
 
-## How to Star ⭐
+### How to Star ⭐
 
 If you enjoyed this repo or find them inspiring, don't forget to ⭐ the repository! Your support is appreciated.
 
-## 📄 License
+### 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 📜
 
@@ -100,7 +95,7 @@ Copyright (c) 2022 CodeMacrocosm
 
 
 
-## Contributors 🙌
+### Contributors 🙌
 
 A big thanks to all the creative minds who have contributed.
 
