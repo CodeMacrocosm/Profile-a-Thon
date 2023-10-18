@@ -548,7 +548,11 @@ var profiles = [
         place: 'Bhopal,Madhya Pradesh,India',
         github: 'palakkk27',
     },
-
+	{
+        name: 'Joshith Gopidi',
+        place: 'Pune, Maharashtra,India',
+        github: 'JOS-RE',
+    },
 
 
 
