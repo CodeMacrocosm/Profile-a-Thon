@@ -543,6 +543,11 @@ var profiles = [
         place: 'Nagpur,Maharashtra,India',
         github: 'harshal-deshattiwar',
     },
+   {
+        name: 'Palak Garg',
+        place: 'Bhopal,Madhya Pradesh,India',
+        github: 'palakkk27',
+    },
 
 
 
