@@ -553,6 +553,11 @@ var profiles = [
         place: 'Pune, Maharashtra,India',
         github: 'JOS-RE',
     },
+	{
+        name: 'Riccardo Consolandi',
+        place: 'Bergamo, BG, Italy',
+        github: 'rickyl3aks',
+    },
 
 
 
