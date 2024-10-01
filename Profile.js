@@ -6,7 +6,6 @@ var profiles = [
     place: "Hyderabad,Telangana,India",
     github: "shreyamalogi",
   },
-
   {
     name: "Abhishek Yadav",
     place: "Rohini, New Delhi, India",
@@ -438,7 +437,6 @@ var profiles = [
     place: "Hyderabad, Telangana, India",
     github: "Ruthvik2127",
   },
-
   {
     name: "Abhishek Jaiswar",
     place: "Hyderabad,Telengana,India",
@@ -495,7 +493,6 @@ var profiles = [
     place: "Kolkata, West Bengal, India",
     github: "chirantan-basu01",
   },
-
   {
     name: "Muskan Dixit",
     place: "Indore, Madhya pradesh, India",
@@ -531,7 +528,6 @@ var profiles = [
     place: "Kolhapur, Maharashtra, India",
     github: "Chinmay1292",
   },
-
   {
     name: "Gangothri",
     place: "Suryapet,Telangana,India",
@@ -567,8 +563,11 @@ var profiles = [
     name: "Mainur Rahman",
     place: "Bangladesh",
     github: "MRIEnan",
-  }
+  },
 
+
+
+  
     /*enter your details here */
 
 
