@@ -1,5 +1,5 @@
 var profiles = [
-  /*write from here*/
+  /*scroll down and enter your details */
 
   {
     name: "Shreya Malogi",
@@ -569,5 +569,12 @@ var profiles = [
     github: "MRIEnan",
   },
 
+    /*enter your details here */
+
+
+
+
+
+  
   //end of json
 ];
