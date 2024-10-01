@@ -1,576 +1,260 @@
-var profiles = [
-  /*scroll down and enter your details */
-
-  {
-    name: "Shreya Malogi",
-    place: "Hyderabad,Telangana,India",
-    github: "shreyamalogi",
-  },
-  {
-    name: "Abhishek Yadav",
-    place: "Rohini, New Delhi, India",
-    github: "abhiyadav2345",
-  },
-  {
-    name: "Akshay KN",
-    place: "Kodakara, Kerala, India",
-    github: "akshayknz",
-  },
-  {
-    name: "Shahroz Ahmed",
-    place: "Karachi, Pakistan",
-    github: "ShahrozAhmd",
-  },
-  {
-    name: "MD DANISH JAMAL",
-    place: "CHANDIGARH,INDIA",
-    github: "IMDJ6",
-  },
-
-  {
-    name: "Skand Sharma",
-    place: "Jamshedpur, Jharkhand, India",
-    github: "skand1110",
-  },
-  {
-    name: "Prakash kumar",
-    place: "Patna,Bihar,India",
-    github: "prakash-sah-lab",
-  },
-  {
-    name: "Manish Saha",
-    place: "Kolkata, West Bengal, India",
-    github: "Manice18",
-  },
-  {
-    name: "Shruthi Kotawar",
-    place: "Hyderabad,Telangana,India",
-    github: "Shruthi-kotawar",
-  },
-  {
-    name: "Niranjan Kurhade",
-    place: "Mumbai,Maharashtra,India",
-    github: "niranjan-kurhade",
-  },
-  {
-    name: "Sumit Raikwar",
-    place: "Sagar,Madhya Pradesh,India",
-    github: "SumitRaikwar18",
-  },
-  {
-    name: "Miswar Yousuf",
-    place: "Hyderabad,Telangana,India",
-    github: "miswaryousuft",
-  },
-  {
-    name: "Pratyusha Maisa",
-    place: "Hyderabad,Telangana,India",
-    github: "Pratyusha-spec",
-  },
-  {
-    name: "Sankooru Manideep",
-    place: "Hyderabad, Telangana, India",
-    github: "sankooru14",
-  },
-  {
-    name: "Yorgina Lecaros",
-    place: "Lima, Peru",
-    github: "YorLecaros",
-  },
-  {
-    name: "Harshit Pachori",
-    place: "Aligarh, UttarPradesh, India",
-    github: "harshitpachori",
-  },
-  {
-    name: "Amit Das",
-    place: "Kolkata, India",
-    github: "das-amit",
-  },
-  {
-    name: "Nikhil Raikwar",
-    place: "Sagar,Madhya Pradesh,India",
-    github: "NikhilRaikwar",
-  },
-  {
-    name: "Akasaka Ryuunosuke",
-    place: "Tokyo, Japan",
-    github: "idm1303",
-  },
-  {
-    name: "Shravya Malogi",
-    place: "Hyderabad,Telangana,India",
-    github: "shravyamalogi",
-  },
-  {
-    name: "Noundla Chandrasangna",
-    place: "Karimnagar,Telangana,India",
-    github: "chandrasangna",
-  },
-  {
-    name: "Shivani Thudimilla",
-    place: "Suryapet,Telangana,India",
-    github: "ShivaniThudimilla",
-  },
-  {
-    name: "Niharika Ponugoti",
-    place: "Jangoan, Telangana, India",
-    github: "niharikaponugoti",
-  },
-  {
-    name: "Rio Cantre",
-    place: "Italy",
-    github: "RioCantre",
-  },
-  {
-    name: "Savio Dias",
-    place: "Mumbai,Maharashtra,India",
-    github: "Savio629",
-  },
-  {
-    name: "Jesse Mayo",
-    place: "Raleigh, NC, USA",
-    github: "jsmayo",
-  },
-  {
-    name: "Amitabh Dasgupta",
-    place: "Kolkata, West Bengal, India",
-    github: "Shelby-kun",
-  },
-  {
-    name: "Ankit Goyal",
-    place: "Sirsa, Haryana, India",
-    github: "Ankit9126",
-  },
-  {
-    name: "Koustav Saha",
-    place: "Kolkata, West Bengal, India",
-    github: "k0ustav",
-  },
-  {
-    name: "Himanshu Saha",
-    place: "Purnea, Bihar, India",
-    github: "Himanshu-Saha",
-  },
-  {
-    name: "Shivam Jain",
-    place: "Chandigarh, India",
-    github: "Shiv-jain",
-  },
-  {
-    name: "Ankitha jalagam",
-    place: "Suryapet,India",
-    github: "ankithajalagam",
-  },
-  {
-    name: "Akshay Kalekar",
-    place: "Goa,India",
-    github: "akshay-kalekar",
-  },
-  {
-    name: "Raj Saha",
-    place: "Kolkata, West Bengal, India",
-    github: "saha-rj",
-  },
-  {
-    name: "Reet Srivastava",
-    place: "Lucknow, Uttar Pradesh, India",
-    github: "reetsrivastava",
-  },
-  {
-    name: "Shashank Rai",
-    place: "Gorakhpur, Uttar Pradesh, India",
-    github: "Shanky0",
-  },
-  {
-    name: "Syed Ibrahim Shareef",
-    place: "Hyderabad, Telengana, India",
-    github: "IbrahimShareeff",
-  },
-  {
-    name: "meneni spandana",
-    place: "suryapet, Telangana, India",
-    github: "Menenispandana",
-  },
-  {
-    name: "sameera",
-    place: "Jangoan, Telangana, India",
-    github: "sameera-7",
-  },
-  {
-    name: "eswari",
-    place: "Rajahmundry,Anshra pradesh, India",
-    github: "eswaritammana",
-  },
-  {
-    name: "Pradeep Kumar",
-    place: "Pargi,Telangana,India",
-    github: "Prad55ep",
-  },
-  {
-    name: "Siddhant Srivastava",
-    place: "Purnea, Bihar, India",
-    github: "sidsrivastavasks",
-  },
-  {
-    name: "Vaibhav Radhakrishnan",
-    place: "Hyderabad,Telengana,India",
-    github: "Vai300",
-  },
-  {
-    name: "Abhishek Yadav",
-    place: "Rohini, New Delhi, India",
-    github: "abhiyadav2345",
-  },
-  {
-    name: "Akshay KN",
-    place: "Kodakara, Kerala, India",
-    github: "akshayknz",
-  },
-  {
-    name: "Shahroz Ahmed",
-    place: "Karachi, Pakistan",
-    github: "ShahrozAhmd",
-  },
-  {
-    name: "MD DANISH JAMAL",
-    place: "CHANDIGARH,INDIA",
-    github: "IMDJ6",
-  },
-  {
-    name: "Shreya Malogi",
-    place: "Hyderabad,Telangana,India",
-    github: "shreyamalogi",
-  },
-  {
-    name: "Skand Sharma",
-    place: "Jamshedpur, Jharkhand, India",
-    github: "skand1110",
-  },
-  {
-    name: "Prakash kumar",
-    place: "Patna,Bihar,India",
-    github: "prakash-sah-lab",
-  },
-  {
-    name: "Manish Saha",
-    place: "Kolkata, West Bengal, India",
-    github: "Manice18",
-  },
-  {
-    name: "Shruthi Kotawar",
-    place: "Hyderabad,Telangana,India",
-    github: "Shruthi-kotawar",
-  },
-  {
-    name: "Niranjan Kurhade",
-    place: "Mumbai,Maharashtra,India",
-    github: "niranjan-kurhade",
-  },
-  {
-    name: "Sumit Raikwar",
-    place: "Sagar,Madhya Pradesh,India",
-    github: "SumitRaikwar18",
-  },
-  {
-    name: "Miswar Yousuf",
-    place: "Hyderabad,Telangana,India",
-    github: "miswaryousuft",
-  },
-  {
-    name: "Pratyusha Maisa",
-    place: "Hyderabad,Telangana,India",
-    github: "Pratyusha-spec",
-  },
-  {
-    name: "Sankooru Manideep",
-    place: "Hyderabad, Telangana, India",
-    github: "sankooru14",
-  },
-  {
-    name: "Yorgina Lecaros",
-    place: "Lima, Peru",
-    github: "YorLecaros",
-  },
-  {
-    name: "Harshit Pachori",
-    place: "Aligarh, UttarPradesh, India",
-    github: "harshitpachori",
-  },
-  {
-    name: "Amit Das",
-    place: "Kolkata, India",
-    github: "das-amit",
-  },
-  {
-    name: "Nikhil Raikwar",
-    place: "Sagar,Madhya Pradesh,India",
-    github: "NikhilRaikwar",
-  },
-  {
-    name: "Akasaka Ryuunosuke",
-    place: "Tokyo, Japan",
-    github: "idm1303",
-  },
-  {
-    name: "Shravya Malogi",
-    place: "Hyderabad,Telangana,India",
-    github: "shravyamalogi",
-  },
-  {
-    name: "Noundla Chandrasangna",
-    place: "Karimnagar,Telangana,India",
-    github: "chandrasangna",
-  },
-  {
-    name: "Shivani Thudimilla",
-    place: "Suryapet,Telangana,India",
-    github: "ShivaniThudimilla",
-  },
-  {
-    name: "Niharika Ponugoti",
-    place: "Jangoan, Telangana, India",
-    github: "niharikaponugoti",
-  },
-  {
-    name: "Rio Cantre",
-    place: "Italy",
-    github: "RioCantre",
-  },
-  {
-    name: "Savio Dias",
-    place: "Mumbai,Maharashtra,India",
-    github: "Savio629",
-  },
-  {
-    name: "Jesse Mayo",
-    place: "Raleigh, NC, USA",
-    github: "jsmayo",
-  },
-  {
-    name: "Amitabh Dasgupta",
-    place: "Kolkata, West Bengal, India",
-    github: "Shelby-kun",
-  },
-  {
-    name: "Ankit Goyal",
-    place: "Sirsa, Haryana, India",
-    github: "Ankit9126",
-  },
-  {
-    name: "Koustav Saha",
-    place: "Kolkata, West Bengal, India",
-    github: "k0ustav",
-  },
-  {
-    name: "Himanshu Saha",
-    place: "Purnea, Bihar, India",
-    github: "Himanshu-Saha",
-  },
-  {
-    name: "Shivam Jain",
-    place: "Chandigarh, India",
-    github: "Shiv-jain",
-  },
-  {
-    name: "Ankitha jalagam",
-    place: "Suryapet,India",
-    github: "ankithajalagam",
-  },
-  {
-    name: "Akshay Kalekar",
-    place: "Goa,India",
-    github: "akshay-kalekar",
-  },
-  {
-    name: "Raj Saha",
-    place: "Kolkata, West Bengal, India",
-    github: "saha-rj",
-  },
-  {
-    name: "Reet Srivastava",
-    place: "Lucknow, Uttar Pradesh, India",
-    github: "reetsrivastava",
-  },
-  {
-    name: "Shashank Rai",
-    place: "Gorakhpur, Uttar Pradesh, India",
-    github: "Shanky0",
-  },
-  {
-    name: "Syed Ibrahim Shareef",
-    place: "Hyderabad, Telengana, India",
-    github: "IbrahimShareeff",
-  },
-  {
-    name: "meneni spandana",
-    place: "suryapet, Telangana, India",
-    github: "Menenispandana",
-  },
-  {
-    name: "sameera",
-    place: "Jangoan, Telangana, India",
-    github: "sameera-7",
-  },
-  {
-    name: "eswari",
-    place: "Rajahmundry,Anshra pradesh, India",
-    github: "eswaritammana",
-  },
-  {
-    name: "Siddhant Srivastava",
-    place: "Purnea, Bihar, India",
-    github: "sidsrivastavasks",
-  },
-  {
-    name: "Vaibhav Radhakrishnan",
-    place: "Hyderabad,Telengana,India",
-    github: "Vai300",
-  },
-  {
-    name: "Rohit Gupta",
-    place: "Hyderabad,Telangana,India",
-    github: "RoHitHai",
-  },
-  {
-    name: "Ruthvik Kanukunta",
-    place: "Hyderabad, Telangana, India",
-    github: "Ruthvik2127",
-  },
-  {
-    name: "Abhishek Jaiswar",
-    place: "Hyderabad,Telengana,India",
-    github: "AbhishekTesla",
-  },
-  {
-    name: "Swayam Terode",
-    place: "Chandrapur, Maharashtra, India",
-    github: "swayamterode",
-  },
-
-  {
-    name: "Aadi Agrawal",
-    place: "Agra, UP, India",
-    github: "iamwicked",
-  },
-  {
-    name: "Rohit Roy",
-    place: "Kolkata, West Bengal, India",
-    github: "imrohitroy23",
-  },
-
-  {
-    name: "Shubham Goyal",
-    place: "Sirsa, Haryana, India",
-    github: "ShubhamGoyal7125",
-  },
-
-  {
-    name: "Naman Rai",
-    place: "Sehore, Madhya Pradesh, India",
-    github: "NAMANIND",
-  },
-
-  {
-    name: "vishesh saxena",
-    place: "sehore , madhya pradesh",
-    github: "VisheshInd",
-  },
-
-  {
-    name: "Muskan Dixit",
-    place: "Indore, Madhya pradesh, India",
-    github: "M-uskanD31",
-  },
-  {
-    name: "Shashank Rai",
-    place: "Lucknow, Uttar Pradesh, India",
-    github: "Shanky-ced",
-  },
-
-  {
-    name: "Chirantan Basu",
-    place: "Kolkata, West Bengal, India",
-    github: "chirantan-basu01",
-  },
-  {
-    name: "Muskan Dixit",
-    place: "Indore, Madhya pradesh, India",
-    github: "M-uskanD31",
-  },
-  {
-    name: "Shashank Rai",
-    place: "Lucknow, Uttar Pradesh, India",
-    github: "Shanky-ced",
-  },
-  {
-    name: "Raunak Mandal",
-    place: "Berhampore, West Bengal, India",
-    github: "RaunakMandal",
-  },
-  {
-    name: "Deepyaman Das",
-    place: "Kolkata, West Bengal, India",
-    github: "deepyaman-das",
-  },
-  {
-    name: "Kabirul Hassan",
-    place: "Kolkata, West Bengal, India",
-    github: "kabirulhassan",
-  },
-  {
-    name: "Tapan Dabhi",
-    place: "Toronto, Ontario, Canada",
-    github: "dabhitapan",
-  },
-  {
-    name: "Chinmay Chougule",
-    place: "Kolhapur, Maharashtra, India",
-    github: "Chinmay1292",
-  },
-  {
-    name: "Gangothri",
-    place: "Suryapet,Telangana,India",
-    github: "mattagamgangothri",
-  },
-
-  {
-    name: "Harshal",
-    place: "Nagpur,Maharashtra,India",
-    github: "harshal-deshattiwar",
-  },
-  {
-    name: "Palak Garg",
-    place: "Bhopal,Madhya Pradesh,India",
-    github: "palakkk27",
-  },
-  {
-    name: "Joshith Gopidi",
-    place: "Pune, Maharashtra,India",
-    github: "JOS-RE",
-  },
-  {
-    name: "Riccardo Consolandi",
-    place: "Bergamo, BG, Italy",
-    github: "rickyl3aks",
-  },
-  {
-    name: "Harry Cee",
-    place: "Europe",
-    github: "VanTekken",
-  },
-  {
-    name: "Mainur Rahman",
-    place: "Bangladesh",
-    github: "MRIEnan",
-  },
-
-
-
-  
-    /*enter your details here */
-
-
-  
-  //end of json
-];
+[
+    {
+        "No": 1,
+        "Name": "Shreya Malogi",
+        "Place": "Hyderabad, Telangana, India",
+        "GitHub Username": "shreyamalogi"
+    },
+    {
+        "No": 2,
+        "Name": "Abhishek Yadav",
+        "Place": "Rohini, New Delhi, India",
+        "GitHub Username": "abhiyadav2345"
+    },
+    {
+        "No": 3,
+        "Name": "Akshay KN",
+        "Place": "Kodakara, Kerala, India",
+        "GitHub Username": "akshayknz"
+    },
+    {
+        "No": 4,
+        "Name": "Shahroz Ahmed",
+        "Place": "Karachi, Pakistan",
+        "GitHub Username": "ShahrozAhmd"
+    },
+    {
+        "No": 5,
+        "Name": "MD DANISH JAMAL",
+        "Place": "Chandigarh, India",
+        "GitHub Username": "IMDJ6"
+    },
+    {
+        "No": 6,
+        "Name": "Skand Sharma",
+        "Place": "Jamshedpur, Jharkhand, India",
+        "GitHub Username": "skand1110"
+    },
+    {
+        "No": 7,
+        "Name": "Prakash Kumar",
+        "Place": "Patna, Bihar, India",
+        "GitHub Username": "prakash-sah-lab"
+    },
+    {
+        "No": 8,
+        "Name": "Manish Saha",
+        "Place": "Kolkata, West Bengal, India",
+        "GitHub Username": "Manice18"
+    },
+    {
+        "No": 9,
+        "Name": "Shruthi Kotawar",
+        "Place": "Hyderabad, Telangana, India",
+        "GitHub Username": "Shruthi-kotawar"
+    },
+    {
+        "No": 10,
+        "Name": "Niranjan Kurhade",
+        "Place": "Mumbai, Maharashtra, India",
+        "GitHub Username": "niranjan-kurhade"
+    },
+    {
+        "No": 11,
+        "Name": "Sumit Raikwar",
+        "Place": "Sagar, Madhya Pradesh, India",
+        "GitHub Username": "SumitRaikwar18"
+    },
+    {
+        "No": 12,
+        "Name": "Miswar Yousuf",
+        "Place": "Hyderabad, Telangana, India",
+        "GitHub Username": "miswaryousuft"
+    },
+    {
+        "No": 13,
+        "Name": "Pratyusha Maisa",
+        "Place": "Hyderabad, Telangana, India",
+        "GitHub Username": "Pratyusha-spec"
+    },
+    {
+        "No": 14,
+        "Name": "Sankooru Manideep",
+        "Place": "Hyderabad, Telangana, India",
+        "GitHub Username": "sankooru14"
+    },
+    {
+        "No": 15,
+        "Name": "Yorgina Lecaros",
+        "Place": "Lima, Peru",
+        "GitHub Username": "YorLecaros"
+    },
+    {
+        "No": 16,
+        "Name": "Harshit Pachori",
+        "Place": "Aligarh, Uttar Pradesh, India",
+        "GitHub Username": "harshitpachori"
+    },
+    {
+        "No": 17,
+        "Name": "Amit Das",
+        "Place": "Kolkata, India",
+        "GitHub Username": "das-amit"
+    },
+    {
+        "No": 18,
+        "Name": "Nikhil Raikwar",
+        "Place": "Sagar, Madhya Pradesh, India",
+        "GitHub Username": "NikhilRaikwar"
+    },
+    {
+        "No": 19,
+        "Name": "Akasaka Ryuunosuke",
+        "Place": "Tokyo, Japan",
+        "GitHub Username": "idm1303"
+    },
+    {
+        "No": 20,
+        "Name": "Shravya Malogi",
+        "Place": "Hyderabad, Telangana, India",
+        "GitHub Username": "shravyamalogi"
+    },
+    {
+        "No": 21,
+        "Name": "Noundla Chandrasangna",
+        "Place": "Karimnagar, Telangana, India",
+        "GitHub Username": "chandrasangna"
+    },
+    {
+        "No": 22,
+        "Name": "Shivani Thudimilla",
+        "Place": "Suryapet, Telangana, India",
+        "GitHub Username": "ShivaniThudimilla"
+    },
+    {
+        "No": 23,
+        "Name": "Niharika Ponugoti",
+        "Place": "Jangoan, Telangana, India",
+        "GitHub Username": "niharikaponugoti"
+    },
+    {
+        "No": 24,
+        "Name": "Rio Cantre",
+        "Place": "Italy",
+        "GitHub Username": "RioCantre"
+    },
+    {
+        "No": 25,
+        "Name": "Savio Dias",
+        "Place": "Mumbai, Maharashtra, India",
+        "GitHub Username": "Savio629"
+    },
+    {
+        "No": 26,
+        "Name": "Jesse Mayo",
+        "Place": "Raleigh, NC, USA",
+        "GitHub Username": "jsmayo"
+    },
+    {
+        "No": 27,
+        "Name": "Amitabh Dasgupta",
+        "Place": "Kolkata, West Bengal, India",
+        "GitHub Username": "Shelby-kun"
+    },
+    {
+        "No": 28,
+        "Name": "Ankit Goyal",
+        "Place": "Sirsa, Haryana, India",
+        "GitHub Username": "Ankit9126"
+    },
+    {
+        "No": 29,
+        "Name": "Koustav Saha",
+        "Place": "Kolkata, West Bengal, India",
+        "GitHub Username": "k0ustav"
+    },
+    {
+        "No": 30,
+        "Name": "Himanshu Saha",
+        "Place": "Purnea, Bihar, India",
+        "GitHub Username": "Himanshu-Saha"
+    },
+    {
+        "No": 31,
+        "Name": "Shivam Jain",
+        "Place": "Chandigarh, India",
+        "GitHub Username": "Shiv-jain"
+    },
+    {
+        "No": 32,
+        "Name": "Ankitha Jalagam",
+        "Place": "Suryapet, India",
+        "GitHub Username": "ankithajalagam"
+    },
+    {
+        "No": 33,
+        "Name": "Akshay Kalekar",
+        "Place": "Goa, India",
+        "GitHub Username": "akshay-kalekar"
+    },
+    {
+        "No": 34,
+        "Name": "Raj Saha",
+        "Place": "Kolkata, West Bengal, India",
+        "GitHub Username": "saha-rj"
+    },
+    {
+        "No": 35,
+        "Name": "Reet Srivastava",
+        "Place": "Lucknow, Uttar Pradesh, India",
+        "GitHub Username": "reetsrivastava"
+    },
+    {
+        "No": 36,
+        "Name": "Shashank Rai",
+        "Place": "Gorakhpur, Uttar Pradesh, India",
+        "GitHub Username": "Shanky0"
+    },
+    {
+        "No": 37,
+        "Name": "Syed Ibrahim Shareef",
+        "Place": "Hyderabad, Telangana, India",
+        "GitHub Username": "IbrahimShareeff"
+    },
+    {
+        "No": 38,
+        "Name": "Meneni Spandana",
+        "Place": "Suryapet, Telangana, India",
+        "GitHub Username": "Menenispandana"
+    },
+    {
+        "No": 39,
+        "Name": "Sameera",
+        "Place": "Jangoan, Telangana, India",
+        "GitHub Username": "sameera-7"
+    },
+    {
+        "No": 40,
+        "Name": "Eswari",
+        "Place": "Rajahmundry, Andhra Pradesh, India",
+        "GitHub Username": "eswaritammana"
+    },
+    {
+        "No": 41,
+        "Name": "Pradeep Kumar",
+        "Place": "Pargi, Telangana, India",
+        "GitHub Username": "Prad55ep"
+    },
+    {
+        "No": 42,
+        "Name": "Siddhant Srivastava",
+        "Place": "Purnea, Bihar, India",
+        "GitHub Username": "sidsrivastavasks"
+    },
+    {
+        "No": 43,
+        "Name": "Vaibhav Radhakrishnan",
+        "Place": "Hyderabad, Telangana, India",
+        "GitHub Username": "Vai300"
+    }
+]
