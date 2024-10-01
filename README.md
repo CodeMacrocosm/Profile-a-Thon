@@ -48,7 +48,7 @@ Profileathon, hosted by **Shreya Malogi**, is a vibrant collection 🌈 of profi
 
 ### Webpage Access 🔗
 
-Explore the profiles on the Profileathon webpage: [Profile-a-Thon-22](https://codemacrocosm.github.io/profile-a-Thon-22/)
+Explore the profiles on the Profileathon webpage: [Profile-a-Thon](https://codemacrocosm.github.io/profile-a-Thon/)
 
 
 
@@ -62,7 +62,7 @@ Explore the profiles on the Profileathon webpage: [Profile-a-Thon-22](https://co
 2. **Clone Your Fork** 📥
 
    ```bash
-   git clone https://github.com/codemacrocosm/Profile-a-Thon-22.git
+   git clone https://github.com/codemacrocosm/Profile-a-Thon.git
    ```
 
 ### Step 2: Add Your Profile 🚀
