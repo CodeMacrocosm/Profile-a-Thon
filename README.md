@@ -5,16 +5,16 @@
 
 </div>
 <p align="center">
-  <a href="https://github.com/CodeMacrocosm/Profile-a-Thon-22/stargazers">
-    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Profile-a-Thon-22?style=flat-square" alt="GitHub stars">
+  <a href="https://github.com/CodeMacrocosm/Profile-a-Thon/stargazers">
+    <img src="https://img.shields.io/github/stars/CodeMacrocosm/Profile-a-Thon?style=flat-square" alt="GitHub stars">
   </a>
   <a href="https://github.com/CodeMacrocosm/Profile-a-Thon-22/network">
-    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Profile-a-Thon-22?style=flat-square" alt="GitHub forks">
+    <img src="https://img.shields.io/github/forks/CodeMacrocosm/Profile-a-Thon?style=flat-square" alt="GitHub forks">
   </a>
   <a href="https://github.com/codemacrocosm/Profile-a-Thon-22/graphs/contributors">
-    <img src="https://img.shields.io/github/contributors/codemacrocosm/Profile-a-Thon-22.svg" alt="GitHub contributors">
+    <img src="https://img.shields.io/github/contributors/codemacrocosm/Profile-a-Thon.svg" alt="GitHub contributors">
   </a>
-  <img src="https://img.shields.io/github/license/CodeMacrocosm/Profile-a-Thon-22" alt="GitHub">
+  <img src="https://img.shields.io/github/license/CodeMacrocosm/Profile-a-Thon" alt="GitHub">
 </p>
 
 <div align="center">
@@ -23,8 +23,8 @@
 
 Thanks goes to these amazing people for their contributions 🎉🎉🎉
 
-<a href="https://github.com/codeMacrocosm/Profile-a-Thon-22/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Profile-a-Thon-22" />
+<a href="https://github.com/codeMacrocosm/Profile-a-Thon/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=codeMacrocosm/Profile-a-Thon" />
 </a>
 
 </div>
@@ -35,10 +35,10 @@ Thanks goes to these amazing people for their contributions 🎉🎉🎉
 ### Table of Contents 📚
 
 1. [Overview](#overview-)
-2. [Webpage Access](https://github.com/CodeMacrocosm/Profile-a-Thon-22/edit/main/README.md#webpage-access-)
-3. [How to contribute](https://github.com/CodeMacrocosm/Profile-a-Thon-22/edit/main/README.md#step-1-how-to-contribute-%EF%B8%8F)
-4. [Star it](https://github.com/CodeMacrocosm/Profile-a-Thon-22/edit/main/README.md#how-to-star-)
-5. [Thanks Contributors](https://github.com/CodeMacrocosm/Profile-a-Thon-22/edit/main/README.md#contributors-)
+2. [Webpage Access](https://github.com/CodeMacrocosm/Profile-a-Thon/edit/main/README.md#webpage-access-)
+3. [How to contribute](https://github.com/CodeMacrocosm/Profile-a-Thon/edit/main/README.md#step-1-how-to-contribute-%EF%B8%8F)
+4. [Star it](https://github.com/CodeMacrocosm/Profile-a-Thon/edit/main/README.md#how-to-star-)
+5. [Thanks Contributors](https://github.com/CodeMacrocosm/Profile-a-Thon/edit/main/README.md#contributors-)
 
 ---
 
