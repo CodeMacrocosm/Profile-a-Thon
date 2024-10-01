@@ -567,7 +567,7 @@ var profiles = [
     name: "Mainur Rahman",
     place: "Bangladesh",
     github: "MRIEnan",
-  },
+  }
 
     /*enter your details here */
 
