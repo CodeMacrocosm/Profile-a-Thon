@@ -1,368 +1,370 @@
-  var profiles = [
+var profiles = [
  {
-   "S.No": 1,
-   "Name": "Abhishek Yadav",
-   "Place": "Rohini, New Delhi, India",
-   "GitHub": "abhiyadav2345"
+   serialno: 1,
+   name: "Abhishek Yadav",
+   place: "Rohini, New Delhi, India",
+   github: "abhiyadav2345"
  },
  {
-   "S.No": 2,
-   "Name": "Akshay Kalekar",
-   "Place": "Goa,India",
-   "GitHub": "akshay-kalekar"
+   serialno: 2,
+   name: "Akshay Kalekar",
+   place: "Goa,India",
+   github: "akshay-kalekar"
  },
  {
-   "S.No": 3,
-   "Name": "Akshay K Nair",
-   "Place": "Waterloo,Canada",
-   "GitHub": "akshaykadambatt"
+   serialno: 3,
+   name: "Akshay K Nair",
+   place: "Waterloo,Canada",
+   github: "akshaykadambatt"
  },
  {
-   "S.No": 4,
-   "Name": "Ankit Goyal",
-   "Place": "Sirsa, Haryana, India",
-   "GitHub": "Ankit9126"
+   serialno: 4,
+   name: "Ankit Goyal",
+   place: "Sirsa, Haryana, India",
+   github: "Ankit9126"
  },
  {
-   "S.No": 5,
-   "Name": "Ankitha jalagam",
-   "Place": "Suryapet,India",
-   "GitHub": "ankithajalagam"
+   serialno: 5,
+   name: "Ankitha jalagam",
+   place: "Suryapet,India",
+   github: "ankithajalagam"
  },
  {
-   "S.No": 6,
-   "Name": "Noundla Chandrasangna",
-   "Place": "Karimnagar,Telangana,India",
-   "GitHub": "chandrasangna"
+   serialno: 6,
+   name: "Noundla Chandrasangna",
+   place: "Karimnagar,Telangana,India",
+   github: "chandrasangna"
  },
  {
-   "S.No": 7,
-   "Name": "Chinmay Chougule",
-   "Place": "Kolhapur, Maharashtra, India",
-   "GitHub": "Chinmay1292"
+   serialno: 7,
+   name: "Chinmay Chougule",
+   place: "Kolhapur, Maharashtra, India",
+   github: "Chinmay1292"
  },
  {
-   "S.No": 8,
-   "Name": "Chirantan Basu",
-   "Place": "Kolkata, West Bengal, India",
-   "GitHub": "chirantan-basu01"
+   serialno: 8,
+   name: "Chirantan Basu",
+   place: "Kolkata, West Bengal, India",
+   github: "chirantan-basu01"
  },
  {
-   "S.No": 9,
-   "Name": "Tapan Dabhi",
-   "Place": "Toronto, Ontario, Canada",
-   "GitHub": "dabhitapan"
+   serialno: 9,
+   name: "Tapan Dabhi",
+   place: "Toronto, Ontario, Canada",
+   github: "dabhitapan"
  },
  {
-   "S.No": 10,
-   "Name": "Amit Das",
-   "Place": "Kolkata, India",
-   "GitHub": "das-amit"
+   serialno: 10,
+   name: "Amit Das",
+   place: "Kolkata, India",
+   github: "das-amit"
  },
  {
-   "S.No": 11,
-   "Name": "Deepyaman Das",
-   "Place": "Kolkata, West Bengal, India",
-   "GitHub": "deepyaman-das"
+   serialno: 11,
+   name: "Deepyaman Das",
+   place: "Kolkata, West Bengal, India",
+   github: "deepyaman-das"
  },
  {
-   "S.No": 12,
-   "Name": "eswari",
-   "Place": "Rajahmundry,Anshra pradesh, India",
-   "GitHub": "eswaritammana"
+   serialno: 12,
+   name: "eswari",
+   place: "Rajahmundry,Anshra pradesh, India",
+   github: "eswaritammana"
  },
  {
-   "S.No": 13,
-   "Name": "Harshal",
-   "Place": "Nagpur,Maharashtra,India",
-   "GitHub": "harshal-deshattiwar"
+   serialno: 13,
+   name: "Harshal",
+   place: "Nagpur,Maharashtra,India",
+   github: "harshal-deshattiwar"
  },
  {
-   "S.No": 14,
-   "Name": "Harshit Pachori",
-   "Place": "Aligarh, UttarPradesh, India",
-   "GitHub": "harshitpachori"
+   serialno: 14,
+   name: "Harshit Pachori",
+   place: "Aligarh, UttarPradesh, India",
+   github: "harshitpachori"
  },
  {
-   "S.No": 15,
-   "Name": "Aadi Agrawal",
-   "Place": "Agra, UP, India",
-   "GitHub": "iamwicked"
+   serialno: 15,
+   name: "Aadi Agrawal",
+   place: "Agra, UP, India",
+   github: "iamwicked"
  },
  {
-   "S.No": 16,
-   "Name": "Syed Ibrahim Shareef",
-   "Place": "Hyderabad, Telengana, India",
-   "GitHub": "IbrahimShareeff"
+   serialno: 16,
+   name: "Syed Ibrahim Shareef",
+   place: "Hyderabad, Telengana, India",
+   github: "IbrahimShareeff"
  },
  {
-   "S.No": 17,
-   "Name": "MD DANISH JAMAL",
-   "Place": "CHANDIGARH,INDIA",
-   "GitHub": "IMDJ6"
+   serialno: 17,
+   name: "MD DANISH JAMAL",
+   place: "CHANDIGARH,INDIA",
+   github: "IMDJ6"
  },
  {
-   "S.No": 18,
-   "Name": "Rohit Roy",
-   "Place": "Kolkata, West Bengal, India",
-   "GitHub": "imrohitroy23"
+   serialno: 18,
+   name: "Rohit Roy",
+   place: "Kolkata, West Bengal, India",
+   github: "imrohitroy23"
  },
  {
-   "S.No": 19,
-   "Name": "Joshith Gopidi",
-   "Place": "Pune, Maharashtra,India",
-   "GitHub": "JOS-RE"
+   serialno: 19,
+   name: "Joshith Gopidi",
+   place: "Pune, Maharashtra,India",
+   github: "JOS-RE"
  },
  {
-   "S.No": 20,
-   "Name": "Jesse Mayo",
-   "Place": "Raleigh, NC, USA",
-   "GitHub": "jsmayo"
+   serialno: 20,
+   name: "Jesse Mayo",
+   place: "Raleigh, NC, USA",
+   github: "jsmayo"
  },
  {
-   "S.No": 21,
-   "Name": "Koustav Saha",
-   "Place": "Kolkata, West Bengal, India",
-   "GitHub": "k0ustav"
+   serialno: 21,
+   name: "Koustav Saha",
+   place: "Kolkata, West Bengal, India",
+   github: "k0ustav"
  },
  {
-   "S.No": 22,
-   "Name": "Kabirul Hassan",
-   "Place": "Kolkata, West Bengal, India",
-   "GitHub": "kabirulhassan"
+   serialno: 22,
+   name: "Kabirul Hassan",
+   place: "Kolkata, West Bengal, India",
+   github: "kabirulhassan"
  },
  {
-   "S.No": 23,
-   "Name": "Muskan Dixit",
-   "Place": "Indore, Madhya pradesh, India",
-   "GitHub": "M-uskanD31"
+   serialno: 23,
+   name: "Muskan Dixit",
+   place: "Indore, Madhya pradesh, India",
+   github: "M-uskanD31"
  },
  {
-   "S.No": 24,
-   "Name": "Manish Saha",
-   "Place": "Kolkata, West Bengal, India",
-   "GitHub": "Manice18"
+   serialno: 24,
+   name: "Manish Saha",
+   place: "Kolkata, West Bengal, India",
+   github: "Manice18"
  },
  {
-   "S.No": 25,
-   "Name": "Gangothri",
-   "Place": "Suryapet,Telangana,India",
-   "GitHub": "mattagamgangothri"
+   serialno: 25,
+   name: "Gangothri",
+   place: "Suryapet,Telangana,India",
+   github: "mattagamgangothri"
  },
  {
-   "S.No": 26,
-   "Name": "meneni spandana",
-   "Place": "suryapet, Telangana, India",
-   "GitHub": "Menenispandana"
+   serialno: 26,
+   name: "meneni spandana",
+   place: "suryapet, Telangana, India",
+   github: "Menenispandana"
  },
  {
-   "S.No": 27,
-   "Name": "Miswar Yousuf",
-   "Place": "Hyderabad,Telangana,India",
-   "GitHub": "miswaryousuft"
+   serialno: 27,
+   name: "Miswar Yousuf",
+   place: "Hyderabad,Telangana,India",
+   github: "miswaryousuft"
  },
  {
-   "S.No": 28,
-   "Name": "Mainur Rahman",
-   "Place": "Bangladesh",
-   "GitHub": "MRIEnan"
+   serialno: 28,
+   name: "Mainur Rahman",
+   place: "Bangladesh",
+   github: "MRIEnan"
  },
  {
-   "S.No": 29,
-   "Name": "Naman Rai",
-   "Place": "Sehore, Madhya Pradesh, India",
-   "GitHub": "NAMANIND"
+   serialno: 29,
+   name: "Naman Rai",
+   place: "Sehore, Madhya Pradesh, India",
+   github: "NAMANIND"
  },
  {
-   "S.No": 30,
-   "Name": "Niharika Ponugoti",
-   "Place": "Jangoan, Telangana, India",
-   "GitHub": "niharikaponugoti"
+   serialno: 30,
+   name: "Niharika Ponugoti",
+   place: "Jangoan, Telangana, India",
+   github: "niharikaponugoti"
  },
  {
-   "S.No": 31,
-   "Name": "Nikhil Raikwar",
-   "Place": "Sagar,Madhya Pradesh,India",
-   "GitHub": "NikhilRaikwar"
+   serialno: 31,
+   name: "Nikhil Raikwar",
+   place: "Sagar,Madhya Pradesh,India",
+   github: "NikhilRaikwar"
  },
  {
-   "S.No": 32,
-   "Name": "Niranjan Kurhade",
-   "Place": "Mumbai,Maharashtra,India",
-   "GitHub": "niranjan-kurhade"
+   serialno: 32,
+   name: "Niranjan Kurhade",
+   place: "Mumbai,Maharashtra,India",
+   github: "niranjan-kurhade"
  },
  {
-   "S.No": 33,
-   "Name": "Palak Garg",
-   "Place": "Bhopal,Madhya Pradesh,India",
-   "GitHub": "palakkk27"
+   serialno: 33,
+   name: "Palak Garg",
+   place: "Bhopal,Madhya Pradesh,India",
+   github: "palakkk27"
  },
  {
-   "S.No": 34,
-   "Name": "Pradeep Kumar",
-   "Place": "Pargi,Telangana,India",
-   "GitHub": "Prad55ep"
+   serialno: 34,
+   name: "Pradeep Kumar",
+   place: "Pargi,Telangana,India",
+   github: "Prad55ep"
  },
  {
-   "S.No": 35,
-   "Name": "Prakash kumar",
-   "Place": "Patna,Bihar,India",
-   "GitHub": "prakash-sah-lab"
+   serialno: 35,
+   name: "Prakash kumar",
+   place: "Patna,Bihar,India",
+   github: "prakash-sah-lab"
  },
  {
-   "S.No": 36,
-   "Name": "Pratyusha Maisa",
-   "Place": "Hyderabad,Telangana,India",
-   "GitHub": "Pratyusha-spec"
+   serialno: 36,
+   name: "Pratyusha Maisa",
+   place: "Hyderabad,Telangana,India",
+   github: "Pratyusha-spec"
  },
  {
-   "S.No": 37,
-   "Name": "Raunak Mandal",
-   "Place": "Berhampore, West Bengal, India",
-   "GitHub": "RaunakMandal"
+   serialno: 37,
+   name: "Raunak Mandal",
+   place: "Berhampore, West Bengal, India",
+   github: "RaunakMandal"
  },
  {
-   "S.No": 38,
-   "Name": "Reet Srivastava",
-   "Place": "Lucknow, Uttar Pradesh, India",
-   "GitHub": "reetsrivastava"
+   serialno: 38,
+   name: "Reet Srivastava",
+   place: "Lucknow, Uttar Pradesh, India",
+   github: "reetsrivastava"
  },
  {
-   "S.No": 39,
-   "Name": "Riccardo Consolandi",
-   "Place": "Bergamo, BG, Italy",
-   "GitHub": "rickyl3aks"
+   serialno: 39,
+   name: "Riccardo Consolandi",
+   place: "Bergamo, BG, Italy",
+   github: "rickyl3aks"
  },
  {
-   "S.No": 40,
-   "Name": "Rio Cantre",
-   "Place": "Italy",
-   "GitHub": "RioCantre"
+   serialno: 40,
+   name: "Rio Cantre",
+   place: "Italy",
+   github: "RioCantre"
  },
  {
-   "S.No": 41,
-   "Name": "Ruthvik Kanukunta",
-   "Place": "Hyderabad, Telangana, India",
-   "GitHub": "Ruthvik2127"
+   serialno: 41,
+   name: "Ruthvik Kanukunta",
+   place: "Hyderabad, Telangana, India",
+   github: "Ruthvik2127"
  },
  {
-   "S.No": 42,
-   "Name": "Raj Saha",
-   "Place": "Kolkata, West Bengal, India",
-   "GitHub": "saha-rj"
+   serialno: 42,
+   name: "Raj Saha",
+   place: "Kolkata, West Bengal, India",
+   github: "saha-rj"
  },
  {
-   "S.No": 43,
-   "Name": "sameera",
-   "Place": "Jangoan, Telangana, India",
-   "GitHub": "sameera-7"
+   serialno: 43,
+   name: "sameera",
+   place: "Jangoan, Telangana, India",
+   github: "sameera-7"
  },
  {
-   "S.No": 44,
-   "Name": "Sankooru Manideep",
-   "Place": "Hyderabad, Telangana, India",
-   "GitHub": "sankooru14"
+   serialno: 44,
+   name: "Sankooru Manideep",
+   place: "Hyderabad, Telangana, India",
+   github: "sankooru14"
  },
  {
-   "S.No": 45,
-   "Name": "Savio Dias",
-   "Place": "Mumbai,Maharashtra,India",
-   "GitHub": "Savio629"
+   serialno: 45,
+   name: "Savio Dias",
+   place: "Mumbai,Maharashtra,India",
+   github: "Savio629"
  },
  {
-   "S.No": 46,
-   "Name": "Shahroz Ahmed",
-   "Place": "Karachi, Pakistan",
-   "GitHub": "ShahrozAhmd"
+   serialno: 46,
+   name: "Shahroz Ahmed",
+   place: "Karachi, Pakistan",
+   github: "ShahrozAhmd"
  },
  {
-   "S.No": 47,
-   "Name": "Shashank Rai",
-   "Place": "Gorakhpur, Uttar Pradesh, India",
-   "GitHub": "Shanky0"
+   serialno: 47,
+   name: "Shashank Rai",
+   place: "Gorakhpur, Uttar Pradesh, India",
+   github: "Shanky0"
  },
  {
-   "S.No": 48,
-   "Name": "Shivam Jain",
-   "Place": "Chandigarh, India",
-   "GitHub": "Shiv-jain"
+   serialno: 48,
+   name: "Shivam Jain",
+   place: "Chandigarh, India",
+   github: "Shiv-jain"
  },
  {
-   "S.No": 49,
-   "Name": "Shivani Thudimilla",
-   "Place": "Suryapet,Telangana,India",
-   "GitHub": "ShivaniThudimilla"
+   serialno: 49,
+   name: "Shivani Thudimilla",
+   place: "Suryapet,Telangana,India",
+   github: "ShivaniThudimilla"
  },
  {
-   "S.No": 50,
-   "Name": "Shravya Malogi",
-   "Place": "Hyderabad,Telangana,India",
-   "GitHub": "shravyamalogi"
+   serialno: 50,
+   name: "Shravya Malogi",
+   place: "Hyderabad,Telangana,India",
+   github: "shravyamalogi"
  },
  {
-   "S.No": 51,
-   "Name": "Shreya Malogi",
-   "Place": "Hyderabad,Telangana,India",
-   "GitHub": "shreyamalogi"
+   serialno: 51,
+   name: "Shreya Malogi",
+   place: "Hyderabad,Telangana,India",
+   github: "shreyamalogi"
  },
  {
-   "S.No": 52,
-   "Name": "Shruthi Kotawar",
-   "Place": "Hyderabad,Telangana,India",
-   "GitHub": "Shruthi-kotawar"
+   serialno: 52,
+   name: "Shruthi Kotawar",
+   place: "Hyderabad,Telangana,India",
+   github: "Shruthi-kotawar"
  },
  {
-   "S.No": 53,
-   "Name": "Shubham Goyal",
-   "Place": "Sirsa, Haryana, India",
-   "GitHub": "ShubhamGoyal7125"
+   serialno: 53,
+   name: "Shubham Goyal",
+   place: "Sirsa, Haryana, India",
+   github: "ShubhamGoyal7125"
  },
  {
-   "S.No": 54,
-   "Name": "Siddhant Srivastava",
-   "Place": "Purnea, Bihar, India",
-   "GitHub": "sidsrivastavasks"
+   serialno: 54,
+   name: "Siddhant Srivastava",
+   place: "Purnea, Bihar, India",
+   github: "sidsrivastavasks"
  },
  {
-   "S.No": 55,
-   "Name": "Skand Sharma",
-   "Place": "Jamshedpur, Jharkhand, India",
-   "GitHub": "skand1110"
+   serialno: 55,
+   name: "Skand Sharma",
+   place: "Jamshedpur, Jharkhand, India",
+   github: "skand1110"
  },
  {
-   "S.No": 56,
-   "Name": "Sumit Raikwar",
-   "Place": "Sagar,Madhya Pradesh,India",
-   "GitHub": "SumitRaikwar18"
+   serialno: 56,
+   name: "Sumit Raikwar",
+   place: "Sagar,Madhya Pradesh,India",
+   github: "SumitRaikwar18"
  },
  {
-   "S.No": 57,
-   "Name": "Swayam Terode",
-   "Place": "Chandrapur, Maharashtra, India",
-   "GitHub": "swayamterode"
+   serialno: 57,
+   name: "Swayam Terode",
+   place: "Chandrapur, Maharashtra, India",
+   github: "swayamterode"
  },
  {
-   "S.No": 58,
-   "Name": "Vaibhav Radhakrishnan",
-   "Place": "Hyderabad,Telengana,India",
-   "GitHub": "Vai300"
+   serialno: 58,
+   name: "Vaibhav Radhakrishnan",
+   place: "Hyderabad,Telengana,India",
+   github: "Vai300"
  },
  {
-   "S.No": 59,
-   "Name": "Harry Cee",
-   "Place": "Europe",
-   "GitHub": "VanTekken"
+   serialno: 59,
+   name: "Harry Cee",
+   place: "Europe",
+   github: "VanTekken"
  },
  {
-   "S.No": 60,
-   "Name": "vishesh saxena",
-   "Place": "sehore , madhya pradesh",
-   "GitHub": "VisheshInd"
+   serialno: 60,
+   name: "vishesh saxena",
+   place: "sehore , madhya pradesh",
+   github: "VisheshInd"
  },
  {
-   "S.No": 61,
-   "Name": "Yorgina Lecaros",
-   "Place": "Lima, Peru",
-   "GitHub": "YorLecaros"
+   serialno: 61,
+   name: "Yorgina Lecaros",
+   place: "Lima, Peru",
+   github: "YorLecaros"
  },
 ];
+
+
