@@ -365,6 +365,12 @@ var profiles = [
    place: "Lima, Peru",
    github: "YorLecaros"
  },
+ {
+  serialno: 62,
+  name: "Uday Kiran Gurramu",
+  place: "Visakhapatnam, India",
+  github: "uday1508"
+}
 ];
 
 
