@@ -1,4 +1,4 @@
-var profiles = [
+  var profiles = [
  {
    "S.No": 1,
    "Name": "Abhishek Yadav",
@@ -364,5 +364,5 @@ var profiles = [
    "Name": "Yorgina Lecaros",
    "Place": "Lima, Peru",
    "GitHub": "YorLecaros"
- }
+ },
 ];
