@@ -376,7 +376,13 @@ var profiles = [
   name: "Hayagreevan V",
   place: "Kanchipuram, India",
   github: "hayagreevan-v"
- }
+ },
+ {
+  serialno: 64,
+  name: "Lakshya Verma",
+  place: "Chandigarh, India",
+  github: "lakshyeahh"
+ },
 ];
 
 
