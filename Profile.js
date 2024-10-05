@@ -383,6 +383,12 @@ var profiles = [
   place: "Chandigarh, India",
   github: "lakshyeahh"
  },
+ {
+  serialno: 65,
+  name: "Cibiyanna P",
+  place: "Tamil Nadu, India",
+  github: "Cibiyanna26"
+ }
 ];
 
 
