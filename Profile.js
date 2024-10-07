@@ -388,6 +388,11 @@ var profiles = [
   name: "Cibiyanna P",
   place: "Tamil Nadu, India",
   github: "Cibiyanna26"
+ },
+ {
+  serialno: 66,
+  name:"Ibrahim Abdulquadri Abiodun",
+  github:"ibrahimabdulquadri101"
  }
 ];
 
