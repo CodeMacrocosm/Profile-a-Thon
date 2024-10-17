@@ -393,6 +393,12 @@ var profiles = [
   serialno: 66,
   name:"Ibrahim Abdulquadri Abiodun",
   github:"ibrahimabdulquadri101"
+ },
+ {
+  serialno: 67,
+  name:"Keerthana J",
+  place: "Chennai, India",
+  github:"itzz-keerthi"
  }
 ];
 
