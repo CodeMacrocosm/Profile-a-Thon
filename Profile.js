@@ -399,6 +399,12 @@ var profiles = [
   name:"Keerthana J",
   place: "Chennai, India",
   github:"itzz-keerthi"
+ },
+ {
+  serialno: 68,
+  name:"Asmita Mishra",
+  place: "Bhopal, Madhya Pradesh, India",
+  github:"AsmitaMishra24"
  }
 ];
 
