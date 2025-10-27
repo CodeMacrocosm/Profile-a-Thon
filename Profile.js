@@ -412,6 +412,12 @@ var profiles = [
   place: "Jaipur, Rajasthan, India",
   github:"nishtha-09-gupta"
  }
+{
+  serialno: 70,
+  name:"Sainath Goud Battula",
+  place: "Hyderabad, Telangana, India",
+  github:"sunnygoud720777"
+ }
 ];
 
 
