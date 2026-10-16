@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 🌟 Profile-a-Thon' 22 : 🚀 Coders Showcased, Globally!..
+# 🌟 Profile-a-Thon 22 : 🚀 Coders Showcased, Globally!..
 
 </div>
 <p align="center">
